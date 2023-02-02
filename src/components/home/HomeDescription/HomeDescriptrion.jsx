@@ -3,7 +3,7 @@ import { HomeDescriptionWrapper, Name, StyledParagraph } from "./HomeDescription
 const HomeDescription = () => {
     return (
         <HomeDescriptionWrapper>
-            <Name>Hi, I'm Javier</Name>
+            <Name>Hi, Im Javier</Name>
             <StyledParagraph>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
                 tincidunt, nisl eget ultricies tincidunt, nisl nisl aliquam
